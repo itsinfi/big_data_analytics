@@ -1,2 +1,2 @@
 # big_data_analytics
-just some code testing parallel to a uni course related to big data analytics
+python .\01_assoziation.py {csv_rel_path} {min_support} {min_conf}
